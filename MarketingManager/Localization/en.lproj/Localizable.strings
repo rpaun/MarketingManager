@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MarketingManager
+
+  Created by Radu Paun on 09.09.2024.
+  
+*/
+
+//Targets Screen
+"screen.targets.title" = "Select desired targets";
+"screen.platforms.title" = "Select platform";
+"screen.plans.title" = "Select desired plan";
+"screen.review.title" = "Review your selections";

@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MarketingManager
+
+  Created by Radu Paun on 09.09.2024.
+  
+*/
+
+"screen.targets.title" = "Selecteaza criteriile dorite";
+"screen.platforms.title" = "Selecteaza platforma";
+"screen.plans.title" = "Selecteaza pachetul dorit";
+"screen.review.title" = "Revizuieste selectia";

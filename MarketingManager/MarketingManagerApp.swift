@@ -11,7 +11,8 @@ import SwiftUI
 struct MarketingManagerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            PlarformChooseScreen(platforms: mocksPlatforms)
+            TargetSpecificsScreen()
         }
     }
 }
